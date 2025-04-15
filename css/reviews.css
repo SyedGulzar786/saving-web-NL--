@@ -1,0 +1,28 @@
+/* review ratings */
+
+.review-divider {
+    height: inherit !important;
+    border-left: 1px solid black !important;
+}
+
+.rating-divider {
+    border-left: 1px solid #BFBFBF !important;
+    height: inherit !important;
+}
+
+/* text area */
+.review-textarea{
+    resize: none;
+    height: 100px;    
+}
+
+.feedback-card{
+    background: #FFF9EE;
+    box-shadow: 0px 4px 6px -2px #10182808;
+}
+
+.review-button-bg{
+    background: #AE1C28;
+}
+
+/* footer additional div a*/
